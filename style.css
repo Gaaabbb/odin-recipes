@@ -1,0 +1,12 @@
+* {
+    font-family: Helvetica, Arial, sans-serif;
+}
+#heading {
+    font-size: 64px;
+    text-align: center;
+}
+#recipe-li, #link {
+    color: black;
+    text-align: center;
+    font-size: 28px;
+}
